@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+A nova habilidade que aprendi foi utilizar a tag <sup> para que o texto fique sobrescrito. O uso do <hr> e <s> já conhecia.
+
+Basicamente foi tudo bastante fácil, pois já havia tido contato com a maioria dos elementos que utilizei para fazer o projeto. O mais difícil para mim foi identificar palavras que estivessem em itálico, e para falar a verdade ainda estou em dúvida se ainda existem palavras em itálico no texto que não consegui ver.
+
+Até o momento a principal estratégia que utilizei para resolver os desafios que encontrei foi a pesquisa. Mas as dicas de pesquisa que deram antes do início do projeto já ajudaram bastante, por isso não foi tão difícil pesquisar.
